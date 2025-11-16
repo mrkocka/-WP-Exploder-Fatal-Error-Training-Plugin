@@ -38,7 +38,7 @@ hack_the_system();
 
 Ez egy klasszikus hibát eredményez, amely a teljes oldal betöltését megszakítja.
 
-![App Screenshot](https://git.mintakocka.hu/mrkocka/mrkUploder/src/branch/main/img/01.png)
+![App Screenshot](https://raw.githubusercontent.com/mrkocka/-WP-Exploder-Fatal-Error-Training-Plugin/refs/heads/main/K%C3%A9perny%C5%91fot%C3%B3%202025-11-15%20-%209.32.07.png)
 
 Ennek hatásai:
 
